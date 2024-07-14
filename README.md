@@ -7,9 +7,7 @@
 + Front </br>
 <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" /> <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=#1572B6" /> <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 + Back </br>
-<img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
-+ DataAnalysis </br>
-<img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E" />
+<img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Dongheon&show_icons=true&theme=transparent)
 
