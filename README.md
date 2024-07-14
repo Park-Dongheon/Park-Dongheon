@@ -9,6 +9,6 @@
 + Back </br>
 <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongheon&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Dongheon&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongheon&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Dongheon&theme=transparent)
